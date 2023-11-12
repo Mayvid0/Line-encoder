@@ -5,6 +5,7 @@
 #include <cstdint>
 #include <random>
 #include <ctime>
+#include <bitset>
 using namespace std;
 
 vector<std::bitset<16>> pcmSample(bool pcmOrDm)

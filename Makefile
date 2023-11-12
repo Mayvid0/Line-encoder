@@ -10,8 +10,8 @@ SFML_DIR_MACOS = /opt/homebrew/Cellar/sfml/2.6.1
 #dir C:\ /s /b | findstr /i "SFML" can find the directory where sfml is stored at, if u manually can't find it
 SFML_DIR_WINDOWS = C:/SFML
 
-#find / -type d -name "SFML-*" 2>/dev/null
-SFML_DIR_LINUX = /usr
+#will be probably in 
+SFML_DIR_LINUX = /usr/
 
 # Detect the operating system
 UNAME_S := $(shell uname -s)
