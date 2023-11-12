@@ -61,7 +61,7 @@ make
 #### Feel free to contribute to the project. Any contributions, suggestions, or bug reports are welcome.
 
 # License: 
-#### License
+#### This project is released under a free license.
 
 # Contact me :
  Connect with me on [LinkedIn](https://www.linkedin.com/in/divyam-link)  
