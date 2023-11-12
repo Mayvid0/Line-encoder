@@ -51,7 +51,7 @@ make
 
 # Run the encoder: 
 ```bash
-./openWindow
+./openWindowApp
 ```
 
 # Usage :
