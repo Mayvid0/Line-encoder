@@ -64,7 +64,8 @@ make
 #### License
 
 # Contact me :
-#### 
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/divyam-link)  
+💬 Ping me on [Telegram](https://t.me/dhdeuiywn)
 
 # Acknowledgments
 
