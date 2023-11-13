@@ -40,7 +40,7 @@ grep -r "sfml" /usr/include
 grep -r "sfml" /usr/lib
 ```
 
-### Similarly for windows , look for the necessary headers and libraries after the installation of sfml
+### Similarly for windows , look for the necessary headers and libraries after the installation of sfml (might also need a tool like MinGW or Cygwin that provides a Unix-like environment )
 
 ## Update the SFML_DIR_LINUX, SFML_DIR_WINDOWS, or SFML_DIR_MACOS variables in the makefile.
 
